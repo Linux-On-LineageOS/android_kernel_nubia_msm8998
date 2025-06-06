@@ -187,3 +187,4 @@ obj-$(CONFIG_ESOC)              += esoc/
 obj-$(CONFIG_TEE)		+= tee/
 obj-$(CONFIG_NUBIA_HW_VERSION)	+= nubia_hw_version/
 obj-$(CONFIG_NUBIA_DRIVERS)	+= nubia/
+obj- += lindroid-drm/
